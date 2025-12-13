@@ -16,8 +16,8 @@ services:
       - torch-cache:/root/.cache/torch
     environment:
       # PASTE YOUR GOOGLE MAPS API KEY BELOW (after the equals sign)
-      - SOLAR_API_KEY=AIzaSyAF71xKeFF13D1A8ZHV8foB1upZhRPR7oE
-      #AIzaSyCakq5MmDe11WJxGo2NidnFZIInNXEOVJ8
+      - SOLAR_API_KEY=PASTE YOUR GOOGLE MAPS API KEY
+      
     command: uvicorn app:app --host 0.0.0.0 --port 8000 --reload
 
   frontend:
