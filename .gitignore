@@ -1,0 +1,27 @@
+# --- Dependencies ---
+node_modules/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
+
+# --- Environment Secrets ---
+.env
+.env.local
+
+# --- Docker ---
+# We generally ignore docker artifacts unless specifically saved
+*.tar
+
+# --- Model Files (Large) ---
+# Uncomment the line below if you are using Git LFS or external link
+# # *.pt
+
+# --- Datasets (Large) ---
+antigravity/dataset_train/
+antigravity/dataset_valid/
+*.zip

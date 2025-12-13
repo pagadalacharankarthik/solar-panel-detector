@@ -1,0 +1,2432 @@
+[
+    {
+        "sample_id": "sp0001_png.rf.4b1af30c26453dbf8b32eac3abef0358",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0002_png.rf.75af018b83847805724824a776b1b08f",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0003_png.rf.1ae9512c1d7162f3921b7e4cefaaf2e2",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0004_png.rf.e36f1242536b8e6144980a710018b342",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0005_png.rf.6fa9137b575912be93a13c5ee727e524",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0006_png.rf.05a35d52bc6d0c3a572e014f245694be",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0007_png.rf.abbd5f033a71ecaed033d410bb112964",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0008_png.rf.d16128de0cd04da1389ecb21ea7708c8",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0009_png.rf.eb1379ea57789145db0ef40510a05cfd",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0010_png.rf.34bd8d68eb125b49d5fdd4c0c565682a",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0011_png.rf.106c45bac86912c1753e078ae6cdeb1d",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0012_png.rf.400346c24d3cf4c38acfd90b69d1318d",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0013_png.rf.6f9af39b059a490dfab91a3c1b747ac0",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0014_png.rf.99a85f5f30ccb3aa2945864dcad08f41",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0015_png.rf.14b63f2c6c2d71d427e5b772d131df76",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0016_png.rf.fb5fe5dbdbd47ee66730d41cb180fcaa",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0017_png.rf.59af9a895cefe9a5f404820b0b6af09b",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0018_png.rf.8366b4736f80211d501c044a3d1178db",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0019_png.rf.6873b4626438306f805f3d1bc695c298",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0020_png.rf.70afc9b75b78a9599ec2849509e333cb",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0021_png.rf.ef528b4f8504f645e4fc2586356e5bfb",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0022_png.rf.498d6370f62657f3a18269759cb2d216",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0023_png.rf.fa3ca647a099f1870d6430f24a3ba56d",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0024_png.rf.0276d3872b426d8db2c60b0a96c4fbcc",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0025_png.rf.6a8e7a675a1ed3703f8e27df218c89d9",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0026_png.rf.471a5464183a4877e7d436cf0eb8f48e",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0027_png.rf.34f15ce96fd35445cbe067585d4b56dc",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0028_png.rf.8abe2f25705cb8589c4b43114d4e88c2",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0029_png.rf.7b95d1194687ae19431ef6c2bab4a368",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0030_png.rf.5969a75597ed0036c7e9685f3f221bbe",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0031_png.rf.0a5294299f4c010e10654c0b4b4b84c2",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0032_png.rf.09190ac69bc752670eb837b1d3c6ddd0",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0033_png.rf.95a76339d7d0375c378505cd570aa141",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0034_png.rf.2db187c11c1b3508d54a4825acecc9f1",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0035_png.rf.0465f38fee4fa04e3c56493fa6ad35b0",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0036_png.rf.0492818f47083d2e1522b93dd9d5e4d0",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0037_png.rf.7b7bf6ddd0208d5e0ee34dfea09b0bfa",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0038_png.rf.18be4c979be9186413bf5d8e2ce4e728",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0039_png.rf.0e11b1e9187386b907cc912f7e9132ba",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0040_png.rf.b68dfa42f2cb8b53fc081de01b6d22ee",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0041_png.rf.b19b61926cad1accbfdae4603310d772",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0042_png.rf.a944b4080920f00bf1460b27a7fd52e5",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0043_png.rf.260a838ca9dcff6d746c569b1c3be29d",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0044_png.rf.8943cc44e9049482022b1f1600327075",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0045_png.rf.93129db34cc5f7931cbe70a6c79fed2a",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0046_png.rf.2d6adde7f43e1fcdb13b5b067abca775",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0047_png.rf.850fd48a5592c6609137db62fc342ec5",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0048_png.rf.8bf59cc57594688f32df450470f605f0",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0049_png.rf.e538d1abd3102d45c445760c2ab84a8b",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0050_png.rf.0da14e731532ccf7808140a269502a35",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0051_png.rf.48bc0ea863ca68c2f48435350fe53e21",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0052_png.rf.3da59372dbe751a4095dd112d7527136",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0053_png.rf.3de8993a096c79fc668427ec654bb98c",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0054_png.rf.de499646918493b6ccbc0a22f90e5e77",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0055_png.rf.f0e112aa2ce78d2f85c085b179759fce",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0056_png.rf.3dcd4a63186af9a56cabc7fec67f552a",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0057_png.rf.7b3282c015e422b5f3eb498b0fd6d58b",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0058_png.rf.5b876f588bfd6543debf2c47f38a3552",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0059_png.rf.3b726e9142b00d67b27e7f987c99fdcf",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0060_png.rf.98b5050484cf1e85bfc2fe68cd21a208",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0061_png.rf.c1dab7b44b53b0e58f540a58208c36ab",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0062_png.rf.7dace8d01a3df2344de74a11940b02f4",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0063_png.rf.e483cb906575fd9dffc003e9a58b2c20",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0064_png.rf.c5d7036477eda8ca78929b7c09c9f379",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0065_png.rf.fdfa2d08fec1914296c8297aa267b5e2",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0066_png.rf.5e896edd441500e6894257b6db061863",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0067_png.rf.ca13e026431a332a203765f276f0f9be",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0071_png.rf.14866c4be7f854da316c20b7611431ee",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0075_png.rf.79a0397c4836745cd0183a5b6e1f0c38",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0083_png.rf.423772af946527ce235bcb13c62d69fa",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0092_png.rf.b435a6f03034a97092d448e0f50a5d9e",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0097_png.rf.940af34137b968a205efb82bd7c100e1",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0098_png.rf.18274efc13695567390ed5e367d95000",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0101_png.rf.435eae01ae27e8415ad8fd66f7053f52",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0112_png.rf.15f2189be7dd9bd07a03716ead331540",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0114_png.rf.f4e689eac1eacaea0c9f7d77f9d4f2f5",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0116_png.rf.3567d83929d61f02a4692afd024839f5",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0123_png.rf.dd55041c486afe3520c07b53dafb3adc",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0137_png.rf.c211e95adb77fd66c3aa44714b012c6d",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0146_png.rf.8e0aaf4bf0f30244facc95c852333b2d",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0150_png.rf.5c516bf742fd6b3987c0a289ed28a4ac",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0152_png.rf.bbd427e15547d39246205cc5194d4b70",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0156_png.rf.77c2cc360b45cb76ac66b8eb3ed9191f",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0158_png.rf.a3cf8a3e63c7845c6f82369f79f56d02",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0159_png.rf.7d301897143d1c29dfa7d86326e9e48d",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0163_png.rf.cc787fc4c05e102f46cbcb91e734acd6",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0170_png.rf.6a1eec6a0de86cc7e21d760e42068ecb",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0173_png.rf.47bba8765061e5215b92af63ffdc62b8",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0188_png.rf.e13d81a83eb388a207993d2cb289fe45",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0223_png.rf.b52d795da976c55c18f02971fee21b53",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0233_png.rf.a1333b472d34d4552667d7fee062a4be",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0240_png.rf.56c4df0b95096788ce124c9735831f58",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0242_png.rf.d88f710ff42f1ac17ffa196322fab675",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0248_png.rf.eaa376b4b26f8d71faab55bec3289d91",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0250_png.rf.7ad13eb8f3dd9aefa827d2106e2e2097",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0251_png.rf.17d5e290590fc4c3ffd2b6b599a2e637",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0255_png.rf.f552b8b14e1f5135df48b4eed6773e63",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0264_png.rf.38ae63a31e4b1f0a95e9b2f2ddf4e1f8",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0268_png.rf.7df626e93749f0bebc3d36d0f9a9c39f",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0295_png.rf.f982e581ce43623ff8b5e621bd66418f",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0308_png.rf.41945c95ea1d4cb6c9919cc86d7965cc",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0311_png.rf.a8450bd1d5b0ce1a1034fef73e406108",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0314_png.rf.be432c89d85fe7553b22d4092360ef8f",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0328_png.rf.99411c082141e97db3c4488fca81153a",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0347_png.rf.28f6f29df53aa2907c3f36e23371a1a7",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0350_png.rf.c6e2548abe5cf85b8759de140fa7e4fa",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0357_png.rf.ad99883f4ddb725b2008caadcf815716",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0363_png.rf.78c2f034acf725194bb079b1b61d18fb",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0365_png.rf.4bfb13e91dc4a690c9a3c247815012c8",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0369_png.rf.6029b10bda698a9bbe18db6df539d0df",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0382_png.rf.f4eba42134d481b6448c7bcb65209dcb",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0389_png.rf.9f23f331a39de2dc60882a92d4d2e08e",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0395_png.rf.e5cd6a83862fcdfaadae1fed2e052641",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0396_png.rf.650375395a228053da323490dd1d437c",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0397_png.rf.e1eb313f668511a1fcf1bb20632d79bf",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0403_png.rf.f735b16e14edf3cd7c6ab3e1e7d5b97e",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0407_png.rf.47faaa7785465a284eb4291b0e48502e",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0411_png.rf.3df2f2fd53cfea903178a64ab0d4e2e3",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0413_png.rf.33429752031c81ed34852fbcd662df69",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0426_png.rf.8bae14e72c3cc1b94c0e59459d97fca4",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0428_png.rf.aeecb50d61fdd98151bf157dbb043fde",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0435_png.rf.b3a54c028c5d61ad483728c2bb4b0a7b",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0442_png.rf.5d6a1c3a5b9df94ee15243ef9fa60f9b",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0448_png.rf.fb085a2b2c24f202badd5604d24c647e",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0460_png.rf.e340e348a5c70a3fffa1b9079cd9f282",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0463_png.rf.d0cc3414c06c755591a08377a6dd3d1c",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0466_png.rf.eb05680d8b7065fe6f193eae10bbac51",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0467_png.rf.a449bd29b19ec7bdf9cfc3a0169c67a6",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0470_png.rf.db5086e478cf1cbd4f4ee7cb3a2a4e53",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0496_png.rf.f9e27f358daf35a211fc8eec546ae05a",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0498_png.rf.94a7b7810641bc2f3a8f35fb4aaafc68",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0500_png.rf.48b534f9a9a1bf2c9bc1eef33813d87b",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0511_png.rf.7643096ac4c43da190c3c34fa928822e",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0519_png.rf.e82261805aeb590eb4591b31a1b05a4d",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0523_png.rf.a4f9782021172be1b6899510b90b270d",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0530_png.rf.df3ec73260147e16d6deac9e0a15e926",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0535_png.rf.dd1100927aaec883ee88f3260d073119",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0543_png.rf.c30311cf7db1792ad673713d538a50c9",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0549_png.rf.4933aabc29f51aae9db2913c2672eea7",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0553_png.rf.e072214740cdbafff8a729f73ec212ef",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0560_png.rf.d90ab095b81c0fe7f07cf963a1216f63",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0579_png.rf.993ff3e66f642385759cc505203d09bf",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0587_png.rf.f935e3c5a0bec9931e751356bb32b2e3",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0593_png.rf.2dc62803d0690993a5463060b7eba8ce",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0601_png.rf.2d80eb591a6d59bb51b10c82916a5487",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0605_png.rf.7e0c1182792f3253542312dbb5982685",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0610_png.rf.875022442c1c74cf9f48954592ad6925",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0627_png.rf.47b8a9084592a203e01752dabd7fffb0",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0628_png.rf.7fda760a2631fe8fa1e986211e9427e3",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0634_png.rf.d03523b661d9f9ebe4e0d816c96f9ef1",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0638_png.rf.058ba6239cc164878be8bd4901c78290",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0655_png.rf.7c15666881888bc0f52e90a833125cfe",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0663_png.rf.660eeacd049c6971805def5971b3c9fc",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0667_png.rf.87bbef58fe4730f47f0f9e53f3ed6670",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0670_png.rf.a819a8d99c569efc65eb533dde53554a",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0676_png.rf.c0c4bc16d1779d90eb15546fcc9f2ab3",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0678_png.rf.3540f44706e0fff4c275a111d3e55253",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0681_png.rf.7fce5ebeaa94e5a50bf1df4c9ba88834",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0683_png.rf.ecd28b5bd1924f3a07547b0e0b54d23b",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0691_png.rf.807a728f1340279c8a1af8a0de3125fc",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0693_png.rf.42a11362711237b1cc06d6a93d8f0d78",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    },
+    {
+        "sample_id": "sp0701_png.rf.e8e55fdf7ad5b51fbc243e0afe55fc60",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0.0,
+        "buffer_radius_sqft": 1200,
+        "qc_status": "NOT_VERIFIABLE",
+        "bbox_or_mask": "[]",
+        "image_metadata": {
+            "source": "Satellite",
+            "capture_date": "2024-01-01"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./antigravity/backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./antigravity/backend/models:/app/backend/models
+      - shared-artifacts:/app/artifacts
+      - ./antigravity/backend/utils:/app/utils
+      - ./antigravity/training:/app/training
+      - ./antigravity/dataset_train:/app/dataset_train
+      - ./antigravity/dataset_valid:/app/dataset_valid
+      - torch-cache:/root/.cache/torch
+    environment:
+      # PASTE YOUR GOOGLE MAPS API KEY BELOW (after the equals sign)
+      - SOLAR_API_KEY=AIzaSyAF71xKeFF13D1A8ZHV8foB1upZhRPR7oE
+      #AIzaSyCakq5MmDe11WJxGo2NidnFZIInNXEOVJ8
+    command: uvicorn app:app --host 0.0.0.0 --port 8000 --reload
+
+  frontend:
+    build:
+      context: ./antigravity/frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    environment:
+      - REACT_APP_API_URL=http://localhost:8000
+    # In production we'd use Nginx, but for dev/demo 'npm start' is fine and supports hot reload
+    stdin_open: true
+    tty: true
+
+volumes:
+  shared-artifacts:
+  torch-cache:
