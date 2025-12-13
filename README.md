@@ -1,6 +1,6 @@
 # 🌞 RoofVision AI - Solar Panel Detection System
 
-![Status](https://img.shields.io/badge/Status-Hackathon_Submission-success) ![Docker](https://img.shields.io/badge/Docker-Ready-blue) ![AI](https://img.shields.io/badge/AI-Mask_RCNN-orange) ![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Project-Solar_Panel_Detector-success) ![Docker](https://img.shields.io/badge/Docker-Ready-blue) ![AI](https://img.shields.io/badge/AI-Mask_RCNN-orange) ![License](https://img.shields.io/badge/License-MIT-green)
 
 > **EcoInnovators Ideathon 2026 Submission**  
 > AI-powered rooftop solar verification for PM Surya Ghar subsidy scheme
