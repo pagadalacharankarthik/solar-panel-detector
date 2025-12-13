@@ -43,7 +43,7 @@ function InputPage() {
       <div className="w-full max-w-md">
         <div className="text-center mb-10">
           <h2 className="text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400 mb-4">
-            Solar Panel Detector
+            RoofVision AI
           </h2>
           <p className="text-gray-400">
             Advanced satellite imagery analysis for photovoltaic estimation.
