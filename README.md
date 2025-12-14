@@ -11,7 +11,7 @@
 
 ```bash
 git clone https://github.com/pagadalacharankarthik/solar-panel-detector.git
-cd roofvision-ai-solar-detector
+cd solar-panel-detector
 docker-compose up --build
 ```
 
@@ -108,7 +108,7 @@ roofvision-ai/
 ### Step 1: Clone Repository
 ```bash
 git clone https://github.com/pagadalacharankarthik/solar-panel-detector.git
-cd roofvision-ai-solar-detector
+cd solar-panel-detector
 ```
 
 ### Step 2: Add API Key
