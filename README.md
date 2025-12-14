@@ -147,6 +147,7 @@ docker-compose up --build
 ---
 
 ## 📚 Documentation
+> **Explore the full documentation in the [`antigravity/docs/`](antigravity/docs/) folder.**
 
 - **[PITCH.md](PITCH.md)** - Hackathon pitch & impact analysis
 - **[MODELCARD.md](antigravity/docs/MODELCARD.md)** - Model details, limitations
