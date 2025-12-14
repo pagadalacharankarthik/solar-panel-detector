@@ -9,6 +9,8 @@
 
 ## 🚀 Quick Start (30 Seconds)
 
+**Prerequisite:** Make sure [Docker Desktop](https://www.docker.com/products/docker-desktop/) is installed and **OPEN** (running).
+
 ```bash
 git clone https://github.com/pagadalacharankarthik/solar-panel-detector.git
 cd solar-panel-detector
@@ -102,7 +104,7 @@ roofvision-ai/
 ## 🔧 Setup & Installation
 
 ### Prerequisites
-- **Docker Desktop** (Windows/Mac/Linux)
+- **Docker Desktop** (Windows/Mac/Linux) Make sure [Docker Desktop](https://www.docker.com/products/docker-desktop/) is installed and **OPEN** (running).
 - **Google Maps API Key** (for real satellite imagery)
 
 ### Step 1: Clone Repository
