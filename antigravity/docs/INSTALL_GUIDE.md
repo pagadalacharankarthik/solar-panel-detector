@@ -16,8 +16,8 @@ This is the "Golden Path" for judges. It isolates everything.
 1.  **Install Docker Desktop**: [Download Here](https://www.docker.com/products/docker-desktop/).
 2.  **Clone Repository**:
     ```bash
-    git clone <REPO_URL>
-    cd solar-3
+    git clone https://github.com/pagadalacharankarthik/solar-panel-detector.git
+    cd solar-panel-detector
     ```
 3.  **Add API Key**:
     *   Open `docker-compose.yml`.
