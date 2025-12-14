@@ -23,7 +23,7 @@ Only needed if you want to run `train.py` directly on your machine instead of in
 
 Once Docker is installed and running:
 
-1.  Open PowerShell in this folder (`solar 3`).
+1.  Open PowerShell in this folder (`solar-panel-detector`).
 2.  Run the following command to build and start everything:
     > [!IMPORTANT]
     > **Is Docker Running?**
@@ -45,7 +45,7 @@ You have two choices:
 
 ### Option A: Training inside Docker (No Python installation needed)
 1.  Ensure Docker is running.
-2.  Open PowerShell in the `solar 3` folder.
+2.  Open PowerShell in the `solar-panel-detector` folder.
 3.  Run:
     ```bash
     docker-compose run --rm backend python /app/training/train.py
