@@ -21,13 +21,13 @@ We built this system for simplicity and performance:
 5.  **Output:** The model returns a visual overlay (mask) and calculates the exact area in square meters.
 **Flow:** `User Input` → `Satellite Image Fetcher` → `AI Model` → `Suitability Report`
 
-## 🔹 4. How Judges Should Run the Model (Important!)
+## 🔹 4. How to Run the Model (Important!)
 We have designed this so you do **NOT** need to install Python, PyTorch, or Node.js.
 
 ### Step 0: Clone the Repo
 ```bash
-git clone <YOUR_REPO_URL_HERE>
-cd solar-3
+git clone https://github.com/pagadalacharankarthik/solar-panel-detector.git
+cd solar-panel-detector
 ```
 ### Step 1: Add Your Maps API Key (Important!)
 To fetch real satellite imagery, you must add your Google Maps Static API Key.
