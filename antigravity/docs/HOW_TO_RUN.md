@@ -26,6 +26,8 @@ Once Docker is installed and running:
 1.  Open PowerShell in this folder (`solar 3`).
 2.  Run the following command to build and start everything:
     > [!IMPORTANT]
+    > **Is Docker Running?**
+    > You must **OPEN** the "Docker Desktop" application and wait for the engine to start (green icon) *before* running any commands below.
     > **Google Maps API Key**: Before running this command, open `docker-compose.yml` and paste your Google Maps API Key where it says `YOUR_GOOGLE_MAPS_API_KEY`. If you skip this, the app will use mock images.
 
     ```bash
