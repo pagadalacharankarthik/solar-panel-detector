@@ -19,6 +19,10 @@ docker-compose up --build
 
 Open `http://localhost:3000` - Done! ✅
 
+## 🎥 Demo & Pitch
+- 🎬 **[Watch Demo Video (Google Drive)](PASTE_YOUR_VIDEO_LINK_HERE)**
+- 📊 **[View Pitch Deck PDF (Google Drive)](PASTE_YOUR_PDF_LINK_HERE)**
+
 ---
 
 ## 📌 The Challenge
