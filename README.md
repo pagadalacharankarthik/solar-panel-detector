@@ -10,7 +10,7 @@
 ## 🚀 Quick Start (30 Seconds)
 
 ```bash
-git clone https://github.com/pagadalacharankarthik/roofvision-ai-solar-detector
+git clone https://github.com/pagadalacharankarthik/solar-panel-detector.git
 cd roofvision-ai-solar-detector
 docker-compose up --build
 ```
@@ -107,7 +107,7 @@ roofvision-ai/
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/pagadalacharankarthik/roofvision-ai-solar-detector
+git clone https://github.com/pagadalacharankarthik/solar-panel-detector.git
 cd roofvision-ai-solar-detector
 ```
 
