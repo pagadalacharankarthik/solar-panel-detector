@@ -13,7 +13,7 @@
 - Make sure [Docker Desktop](https://www.docker.com/products/docker-desktop/) is installed and **OPEN** (running).
 - Clone the repository to your local machine.
 - Open the cloned repository in **VS Code** or your preferred code editor.
-- After cloning the repo, add your **Google Maps API key** in the appropriate configuration file.
+- After cloning the repo, add your **Google Maps API key** in the `docker-compose.yml` file.
 
 
 ```bash
