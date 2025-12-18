@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import { Link } from 'react-router-dom';
+import * as XLSX from 'xlsx';
 
 const API_URL = 'http://localhost:8000';
 
@@ -20,9 +21,6 @@ function BatchPage() {
     const parseCSV = (text) => {
         const lines = text.split('\n');
         const locations = [];
-        // Assume header exists or try to detect. Let's assume header "id,lat,lon" or "latitude,longitude"
-        // We will look for lat/lon columns.
-
         const headers = lines[0].toLowerCase().split(',').map(h => h.trim());
         const latIdx = headers.findIndex(h => h.includes('lat'));
         const lonIdx = headers.findIndex(h => h.includes('lon'));
@@ -46,6 +44,41 @@ function BatchPage() {
         return locations;
     };
 
+    const parseExcel = async (file) => {
+        return new Promise((resolve, reject) => {
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                try {
+                    const data = new Uint8Array(e.target.result);
+                    const workbook = XLSX.read(data, { type: 'array' });
+                    const firstSheet = workbook.Sheets[workbook.SheetNames[0]];
+                    const jsonData = XLSX.utils.sheet_to_json(firstSheet);
+
+                    const locations = jsonData.map((row, index) => {
+                        const latKey = Object.keys(row).find(k => k.toLowerCase().includes('lat'));
+                        const lonKey = Object.keys(row).find(k => k.toLowerCase().includes('lon'));
+                        const idKey = Object.keys(row).find(k => k.toLowerCase().includes('id'));
+
+                        if (!latKey || !lonKey) {
+                            throw new Error("Excel must contain 'lat' and 'lon' columns");
+                        }
+
+                        return {
+                            id: idKey ? String(row[idKey]) : `loc_${index + 1}`,
+                            lat: parseFloat(row[latKey]),
+                            lon: parseFloat(row[lonKey])
+                        };
+                    });
+                    resolve(locations);
+                } catch (err) {
+                    reject(err);
+                }
+            };
+            reader.onerror = (err) => reject(err);
+            reader.readAsArrayBuffer(file);
+        });
+    };
+
     const handleUpload = async () => {
         if (!file) {
             setError("Please select a CSV file first.");
@@ -55,8 +88,16 @@ function BatchPage() {
         try {
             setProcessing(true);
             setProgress(10);
-            const text = await file.text();
-            const locations = parseCSV(text);
+
+            let locations = [];
+            if (file.name.endsWith('.csv')) {
+                const text = await file.text();
+                locations = parseCSV(text);
+            } else if (file.name.endsWith('.xlsx') || file.name.endsWith('.xls')) {
+                locations = await parseExcel(file);
+            } else {
+                throw new Error("Unsupported file format. Use CSV or Excel.");
+            }
 
             console.log("Parsed locations:", locations);
 
@@ -90,29 +131,33 @@ function BatchPage() {
 
     const downloadResults = () => {
         if (!results) return;
-        const headers = ["user_id", "solar_present", "solar_area_m2", "confidence", "latitude", "longitude"];
-        const csvRows = [headers.join(',')];
 
-        results.forEach(r => {
-            const row = [
-                r.user_id,
-                r.solar_present,
-                r.solar_area_m2,
-                r.confidence || 0,
-                r.latitude || 0,
-                r.longitude || 0
-            ];
-            csvRows.push(row.join(','));
-        });
+        // Exporting as JSON matching the sample format
+        const output = results.map(r => ({
+            sample_id: r.sample_id,
+            latitude: r.latitude,
+            longitude: r.longitude,
+            solar_present: r.solar_present,
+            solar_area_m2: r.solar_area_m2,
+            confidence: r.confidence,
+            qc_status: r.qc_status,
+            is_mock_data: r.is_mock_data || false,
+            buffer_size_sqft: r.buffer_size_sqft || 1200,
+            model_version: r.model_version || "v1.0",
+            timestamp: r.timestamp || new Date().toISOString(),
+            artifact_paths: r.artifact_paths
+        }));
 
-        const csvContent = "data:text/csv;charset=utf-8," + csvRows.join("\n");
-        const encodedUri = encodeURI(csvContent);
+        const jsonString = JSON.stringify(output, null, 2);
+        const blob = new Blob([jsonString], { type: "application/json" });
+        const url = URL.createObjectURL(blob);
         const link = document.createElement("a");
-        link.setAttribute("href", encodedUri);
-        link.setAttribute("download", "batch_results.csv");
+        link.href = url;
+        link.download = "batch_results.json";
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);
+        URL.revokeObjectURL(url);
     };
 
     return (
@@ -126,20 +171,20 @@ function BatchPage() {
                 <div className="border-2 border-dashed border-white/20 rounded-xl p-10 hover:border-blue-500/50 transition-colors">
                     <input
                         type="file"
-                        accept=".csv"
+                        accept=".csv, .xlsx, .xls"
                         onChange={handleFileChange}
                         className="hidden"
-                        id="csvInput"
+                        id="batchInput"
                     />
-                    <label htmlFor="csvInput" className="cursor-pointer flex flex-col items-center">
+                    <label htmlFor="batchInput" className="cursor-pointer flex flex-col items-center">
                         <div className="w-16 h-16 bg-slate-800 rounded-full flex items-center justify-center mb-4">
                             <span className="text-2xl">📄</span>
                         </div>
                         <span className="text-lg font-medium text-white mb-2">
-                            {file ? file.name : "Drop CSV file here or Click to Upload"}
+                            {file ? file.name : "Drop CSV/Excel file here or Click to Upload"}
                         </span>
                         <span className="text-xs text-slate-400">
-                            Format: id, lat, lon
+                            Format: id, lat, lon (CSV or XLSX)
                         </span>
                     </label>
                 </div>
